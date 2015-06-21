@@ -13,3 +13,9 @@ sudo rm -rf /Library/Receipts/mysql*
 sudo rm -rf /Library/Receipts/MySQL*
 sudo rm -rf /var/db/receipts/com.mysql.*
 ```
+
+### Copy something to clipboard
+
+```bash
+echo 'kier pogi' | pbcopy
+```
